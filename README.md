@@ -90,7 +90,7 @@ Este script utiliza o MediaPipe para rastrear marcadores corporais e salvar dado
 # Análise de Rastreamento de Mãos
 
 ## Descrição
-Este script realiza a análise de rastreamento de mãos a partir de dados extraídos de um arquivo Excel. O processamento inclui:
+Este script realiza a análise de rastreamento de mãos a partir de dados extraídos de um arquivo Excel processado anteriormente. O processamento inclui:
 - Aplicação de um filtro passa-baixa Butterworth para suavizar os dados de posição.
 - Cálculo das velocidades lineares dos marcadores.
 - Determinação do deslocamento total de cada marcador.
